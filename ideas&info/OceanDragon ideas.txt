@@ -1,0 +1,10 @@
+helmet: auto respiration 2, adding respiration three will give the equavelent of respiration 5, though it only says respiration 3, provides 1 armour point.
+chestplate: provides 3 and a half amrour points
+legs: provide three armour points
+boots: proivde one and a half armour point, will increase swimming speed by 10%
+Pickaxe: 321 durabillity can mine anything iron can, right with the pickaxe will place a water source block, and take 3 durability
+sword: 321 durabillity does 6 hearts of damage will "burn out" nether mobs (except for zombie pigman) and will do the equilavelent as if they were a normal mob set on fire from fire aspect 1
+hoe: 321 durabillity, has a 32% chance of "hydrating" the farmland. Hydrated farmland gives an 80% chance of the planted item to give 2x the amount of the median amount of resources dropped
+axe: 321 durabillity, has a 32% chance of "hydrating" the wood, if placed while still in log form, the tree will slowy regrow at about a rate of 2-3 minutes per log.
+shovel: 321 durabillity, has a 32% chance of "hydrating" grass/dirt blocks, hydrated grass/dirt blocks will be dropped as a grass block
+the dragon is neutral, when tamed, it can be ridden as a boat at 4x the speed (requires a dragon's saddle and 64-90 raw fish) The dragon will "air drown" if its head is above water. It will have six seconds of being normal, and then will take two hearts per second and a half of damage. The dragon will have 120 hearts. while riding under water, player can "drown" as usual, with the usual air bubbles, wearing respiration helmet/oceanscale helmet will prolong this. The spawn rate should be .001% in ocean biomes only in the overworld, and 95% in ocean biomes in the Dragon dimension.
